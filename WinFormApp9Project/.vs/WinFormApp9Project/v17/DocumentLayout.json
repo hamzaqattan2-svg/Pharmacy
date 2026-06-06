@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hamza\\Desktop\\I AM THE ONE\\WinFormApp9Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8285030F-BB62-4909-AB4C-BD5C16837951}|WinFormApp9Project\\WinFormApp9Project.csproj|c:\\users\\hamza\\desktop\\i am the one\\winformapp9project\\winformapp9project\\formme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8285030F-BB62-4909-AB4C-BD5C16837951}|WinFormApp9Project\\WinFormApp9Project.csproj|solutionrelative:winformapp9project\\formme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8285030F-BB62-4909-AB4C-BD5C16837951}|WinFormApp9Project\\WinFormApp9Project.csproj|C:\\Users\\Hamza\\Desktop\\I AM THE ONE\\WinFormApp9Project\\winformapp9project\\formme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8285030F-BB62-4909-AB4C-BD5C16837951}|WinFormApp9Project\\WinFormApp9Project.csproj|solutionrelative:winformapp9project\\formme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8285030F-BB62-4909-AB4C-BD5C16837951}|WinFormApp9Project\\WinFormApp9Project.csproj|c:\\users\\hamza\\desktop\\i am the one\\winformapp9project\\winformapp9project\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8285030F-BB62-4909-AB4C-BD5C16837951}|WinFormApp9Project\\WinFormApp9Project.csproj|solutionrelative:winformapp9project\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMe.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\Desktop\\I AM THE ONE\\WinFormApp9Project\\WinFormApp9Project\\FormMe.cs",
+              "RelativeDocumentMoniker": "WinFormApp9Project\\FormMe.cs",
+              "ToolTip": "C:\\Users\\Hamza\\Desktop\\I AM THE ONE\\WinFormApp9Project\\WinFormApp9Project\\FormMe.cs",
+              "RelativeToolTip": "WinFormApp9Project\\FormMe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T20:38:33.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hamza\\Desktop\\I AM THE ONE\\WinFormApp9Project\\WinFormApp9Project\\FormMe.cs",
+              "RelativeDocumentMoniker": "WinFormApp9Project\\FormMe.cs",
+              "ToolTip": "C:\\Users\\Hamza\\Desktop\\I AM THE ONE\\WinFormApp9Project\\WinFormApp9Project\\FormMe.cs [Design]",
+              "RelativeToolTip": "WinFormApp9Project\\FormMe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T21:15:39.1Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hamza\\Desktop\\I AM THE ONE\\WinFormApp9Project\\WinFormApp9Project\\Form3.cs",
+              "RelativeDocumentMoniker": "WinFormApp9Project\\Form3.cs",
+              "ToolTip": "C:\\Users\\Hamza\\Desktop\\I AM THE ONE\\WinFormApp9Project\\WinFormApp9Project\\Form3.cs [Design]",
+              "RelativeToolTip": "WinFormApp9Project\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T20:24:59.181Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
