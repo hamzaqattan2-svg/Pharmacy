@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wfkUSoKNLXBq6JgA15gGzt1dQFz7wHD4wuVjz4n5T29drUBCl2YqvkFD7Ojj/awcCciFs7bA35pa9SrvauGCwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hamza\\Desktop\\I AM THE ONE\\WinFormApp9Project-OpenMe\\WinFormApp9Project\\WinFormApp9Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hamza\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512",
+    "C:\\Users\\Hamza\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Hamza\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
